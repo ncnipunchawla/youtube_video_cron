@@ -5,7 +5,7 @@ var _ = require('lodash'),
     config = require('./../config.json'),
 	google = require('googleapis'),
 	youtube = google.youtube('v3'),
-	API_KEY = 'AIzaSyDAlDuJ_aGKZbN1zRGGjg0Zc6ZqWmqJYrY';
+	API_KEY = 'AIzaSyC5PcJLSPpMApI98bxio159s1UsR1qOcQY';
 
 var mongoose = require('mongoose');
 var Channel = mongoose.model('Channel');
